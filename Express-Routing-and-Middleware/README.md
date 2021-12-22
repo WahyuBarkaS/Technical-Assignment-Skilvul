@@ -23,6 +23,6 @@ Soal - 02
 ![img 6](img/soal_2_logger.png)
 
 - Middleware Post Validator Checker
-![img 7](midlleware_checker.png)
+![img 7](img/midlleware_checker.png)
 
 
