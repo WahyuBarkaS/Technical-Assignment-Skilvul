@@ -1,5 +1,5 @@
 1. Jelaskan apa yang dimaksud dengan container pada docker !
-/nJawab :
+Jawab :
 Wadah untuk mengemas dan menjalankan aplikasi. Wadah ini mencakup kode, runtime, system tools, dan pengaturan. Container hanya bisa mengakses resource yang telah ditentukan dalam Docker image. Container ini bertindak seperti mesin virtual, yang seperti simulasi komputer yang berjalan di dalam komputer asli pengembang. Pada mesin virtual ini nantinya semua kode sistem tersimpan untuk menjalankan simulasi seolah-olah adalah operasi sistem utama. Docker bertindak melakukan virtualisasi sistem operasi di dalam sistem operasi host. Docker membangun container berdasarkan gambar yang berisi kode program. Gambar atau images ini ditumpuk satu sama lain untuk lantas membangun pengaturan yang lengkap. Gambar bertumpuk dapat berbagi gambar inti yang sama, seperti cabang-cabang dari batang pohon yang sama.
 
 ---
